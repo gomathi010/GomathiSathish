@@ -41,7 +41,7 @@ body{
 }
 
 .title span{
-    color: yellow;
+    color: #d42626;
 }
 
 .head{
@@ -53,7 +53,7 @@ body{
     color: #fff;
 }
 .head span{
-    color: yellow;
+    color: #d42626;
 }
 .pro{
     text-align: center;
@@ -64,7 +64,7 @@ body{
     color: #fff;
 }
 .pro span{
-    color: yellow;
+    color: #d42626;
 }
 header{
     position:fixed;
@@ -73,7 +73,6 @@ header{
     z-index: 1000;
     height: 100%;
     width: 35rem;
-    background:#d04e60;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -91,12 +90,12 @@ header .user img{
 
 header .user .nm{
     font-size:2rem;
-    color: black;
+    color: #d42626;
 }
 
 header .user .jb{
     font-size:1rem;
-    color: black;
+    color: #d42626;
 }
 
 header .nv{
@@ -147,15 +146,15 @@ header .nv ul li a:hover{
     padding: 0. 5rem;
 }
 table,th,td{
-    border: 1px solid yellow;
+    border: 1px solid grey;
     border-collapse: collapse;
 }
 td{
-    color: #000000;
+    color: #d42626;
     padding: 1rem;
 }
 th{
-    color: #000000;
+    color: #d42626;
     padding: 1rem;
 }
 table{
@@ -164,11 +163,11 @@ table{
     font-size: 2rem;
     padding: 1rem;
     border-bottom: .1rem solid #fff4;
-    color: #000000;
+    color: #d42626;
 }
 #lis li{
     margin: 0 9rem;
-    color: white;
+    color: #d42626;
     font-size: medium;
     padding: .5rem 1rem;
 }
