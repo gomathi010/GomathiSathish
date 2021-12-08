@@ -91,12 +91,12 @@ header .user img{
 
 header .user .nm{
     font-size:2rem;
-    color: #fff;
+    color: black;
 }
 
 header .user .jb{
     font-size:1rem;
-    color: #fff;
+    color: black;
 }
 
 header .nv{
@@ -151,11 +151,11 @@ table,th,td{
     border-collapse: collapse;
 }
 td{
-    color: white;
+    color: #000000;
     padding: 1rem;
 }
 th{
-    color: white;
+    color: #000000;
     padding: 1rem;
 }
 table{
@@ -164,7 +164,7 @@ table{
     font-size: 2rem;
     padding: 1rem;
     border-bottom: .1rem solid #fff4;
-    color: #fff;
+    color: #000000;
 }
 #lis li{
     margin: 0 9rem;
@@ -188,7 +188,7 @@ table{
 
 .Project .Row .det h3{
     font-size: 2rem;
-    color: yellow;
+    color: #000000;
     padding: 1rem 0;
     font-weight: normal;
 }
