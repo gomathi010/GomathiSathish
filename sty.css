@@ -78,6 +78,7 @@ header{
     justify-content: center;
     flex-flow: column;
     text-align: center;
+	    background-color: #a9a9a9;
 }
 
 header .user img{
@@ -114,7 +115,7 @@ header .nv ul li a{
     color: #fff;
     font-size: 2rem;
     border-radius: 5rem;
-    background-color: #a9a9a9;
+
     text-decoration: none;  
 }
 header .nv ul li a:hover{
