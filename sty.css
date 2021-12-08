@@ -77,6 +77,7 @@ header{
     align-items: center;
     justify-content: center;
     flex-flow: column;
+	background-color: #a9a9a9
     text-align: center;
 }
 
@@ -90,7 +91,7 @@ header .user img{
 
 header .user .nm{
     font-size:2rem;
-    color: #fff;
+    color: #d42626;
 }
 
 header .user .jb{
@@ -110,7 +111,7 @@ header .nv ul li a{
     display: block;
     padding: 1rem;
     margin: 1.5rem 0;
-    background: #a20d22;
+    background: #d85f5f;
     color: #fff;
     font-size: 2rem;
     border-radius: 5rem;
