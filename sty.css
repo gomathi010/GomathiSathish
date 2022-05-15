@@ -502,12 +502,12 @@ body {
 #textSlider.row {
   position: absolute;
   /*top: 50%; */
-  left: 60%;
+  left: 56%;
   transform: translate(-50%, -50%);
   width: 100% !important;
 }
 #textSlider div {
-  color: #d42626;
+  color: #428bca;
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
 }
@@ -574,7 +574,7 @@ body {
   #textSlider.row { margin-right: 0px !important; margin-left: 0px !important; }
   .iamCol { text-align: center; font-size:30pt; }
   .iamCol p { display: inline !important; }
-  .slideCol { font-size: 50pt; text-align: center; margin-top: 5px; }
+  .slideCol { font-size: 20pt; text-align: center; margin-top: 5px; }
 }
 
 /* Medium Devices, Desktops */
@@ -744,9 +744,6 @@ Padding & Margins CSS
 .p-25{
   padding: 25px;
 }
-.p-30{
-  padding: 30px;
-}
 .p-35{
   padding: 35px;
 }
@@ -885,8 +882,7 @@ Page Styles
     overflow-y: auto;
     margin-left: 10px;
     background: #fff;
-    border-left: 1px solid rgba(221, 221, 221, 0.38);
-}
+    }
 .logo {
     display: flex;
     justify-content: flex-end;
@@ -1005,9 +1001,7 @@ Page Styles
   color: #000;
   transform: scale(1.2) translateY(-5px);
 }
-.user-profile {
-    padding-left: 50px;
-}
+
 
 .sm-text {
     letter-spacing: 2.1px;
@@ -1099,3 +1093,4 @@ Page Styles
     letter-spacing: 5px;
 }
 body{overflow: scroll;}
+
