@@ -81,8 +81,8 @@ header{
 }
 
 header .user img{
-    height: 13rem;
-    width: 13rem;
+    height: 25rem;
+    width: 25rem;
     border-radius: 50%;
     object-fit: cover;
     */ border: .5rem solid;
@@ -502,7 +502,7 @@ body {
 #textSlider.row {
   position: absolute;
   /*top: 50%; */
-  left: 56%;
+  left: 52%;
   transform: translate(-50%, -50%);
   width: 100% !important;
 }
@@ -917,20 +917,20 @@ Page Styles
 .nav ul li a {
     padding: 8px 8px;
     text-transform: uppercase;
-    color: rgba(0, 0, 0, 0.4);
+    color: rgb(207 50 50 / 88%);
     letter-spacing: 1px;
     font-weight: 500;
     position: relative;
 }
 
 .nav ul li a:hover {
-    color: #000;
+    color: #3dd185;
 }
 .nav ul li a:after {
     content: "";
     width: 0;
     height: 1px;
-    background: #000;
+    background: #3dd185;
     position: absolute;
     bottom: 5px;
     left: 0;
